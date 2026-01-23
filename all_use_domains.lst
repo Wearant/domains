@@ -15,3 +15,9 @@ https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Servic
 https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/google_play.lst
 https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/google_ai.lst
 https://raw.githubusercontent.com/Wearant/domains/refs/heads/main/my_list.lst
+https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/cloudflare.lst
+https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/cloudfront.lst
+https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/digitalocean.lst
+https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/ovh.lst
+https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/hetzner.lst
+https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Services/roblox.lst
