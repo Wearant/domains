@@ -1,3 +1,4 @@
+*.discord.com
 .ua
 1.0.0.1
 1.1.1.1
@@ -313,6 +314,7 @@ cdn.live.bhvrdbd.com
 cdn.web-platform.io
 cdnbunny.org
 cdninstagram.com
+cdnjs.com
 cdromance.org
 cdw.com
 censor.net
@@ -546,6 +548,8 @@ eos-gateway-ingressv2-prod-c2-w1.befa.live.use1a.on.epicgames.com
 eos-gateway-prod.ak.epicgames.com
 epidemz.net.co
 eporner.com
+es-cf.net
+es-pio.net
 espreso.tv
 etahub.com
 etsy.com
@@ -1086,6 +1090,7 @@ ovd.info
 ovd.legal
 ovd.news
 ovdinfo.org
+ovhcloud.com
 ozodi.org
 pacloudflare.com
 paddle.com
@@ -1151,6 +1156,7 @@ premierleague.com
 primeday.info
 primevideo.com
 primevue.org
+privacy.xboxlive.com
 privatekeys.pw
 prnt.sc
 proactivebackend-pa.googleapis.com
@@ -1192,6 +1198,8 @@ radiojar.com
 radiosakharov.org
 radiosvoboda.org
 rbc.ua
+rbxcdn.com
+rbxinfra.net
 reactflow.dev
 realbooru.com
 realist.online
@@ -1246,6 +1254,8 @@ riperam.org
 riseup.net
 roar-review.com
 robinfrontend-pa.googleapis.com
+roblox.com
+robloxdev.com
 root-nation.com
 roskomsvoboda.org
 rstatic.net
@@ -1389,6 +1399,8 @@ statology.org
 stats.ea.com
 status.discord.com
 steam.live.bhvrdbd.com
+steamcommunity.com
+steampowered.com
 steamstat.info
 stitch.withgoogle.com
 strana.news
@@ -1396,6 +1408,9 @@ strana.today
 strava.com
 stryder.respawn.com
 stun.l.google.com
+stun1.l.google.com
+stun2.l.google.com
+stun3.l.google.com
 succurity.com
 suggestqueries.google.com
 supercell.com
