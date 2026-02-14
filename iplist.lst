@@ -1,4 +1,16 @@
+*.cdn-telegram.org
 *.discord.com
+*.fragment.com
+*.t.me
+*.telegra.ph
+*.telegram-cdn.org
+*.telegram.dog
+*.telegram.me
+*.telegram.org
+*.telesco.pe
+*.tg.dev
+*.tg.org
+*.tx.me
 .ua
 1.0.0.1
 1.1.1.1
@@ -16,6 +28,7 @@
 9tv.co.il
 a-v2.sndcdn.com
 a-vrv.akamaized.net
+a.telegram.org
 a0.awsstatic.com
 a2z.com
 abercrombie.com
@@ -44,6 +57,7 @@ adidas.com
 adminforge.de
 adobe.com
 ads-twitter.com
+ads.telegram.org
 adultmult.tv
 aesworkshops.com
 affinity.studio
@@ -301,6 +315,7 @@ btod.com
 buanzo.org
 buf.build
 bufferbloat.net
+bugs.telegram.org
 builds.parsec.app
 buymeacoffee.com
 byteoversea.com
@@ -423,6 +438,7 @@ contest.com
 convrgencegame.com
 coomer.su
 copilot.microsoft.com
+core.telegram.org
 corsair.com
 coursera.org
 cpu-monkey.com
@@ -468,6 +484,7 @@ depositphotos.com
 desec.io
 designer.microsoft.com
 designify.com
+desktop.telegram.org
 developer.nvidia.com
 devexpress.com
 deviantart.com
@@ -812,6 +829,7 @@ inoreader.com
 insearch.site
 instagram.com
 install.launcher.omniverse.nvidia.com
+instantview.telegram.org
 instituteofwar.org
 intel.com
 intel.de
@@ -850,6 +868,7 @@ jut.su
 jutsu.tv
 jw-russia.org
 jw.org
+k.telegram.org
 kaktus.media
 kaleido.ai
 kamatera.com
@@ -950,6 +969,7 @@ lostfilmtv2.site
 lu4.org
 lucid.app
 lyst.com
+macos.telegram.org
 magaz.global
 magicalchemy.org
 mail-api.proton.me
@@ -1208,6 +1228,7 @@ production-openaicom-storage.azureedge.net
 proekt.media
 profitwell.com
 projectapex.com
+promote.telegram.org
 pronouns.page
 prosleduetmedia.com
 prostovpn.org
@@ -1462,6 +1483,7 @@ stun1.l.google.com
 stun2.l.google.com
 stun3.l.google.com
 succurity.com
+suggestions.telegram.org
 suggestqueries.google.com
 supercell.com
 supersliv.biz
@@ -1554,6 +1576,7 @@ thebell.io
 theins.press
 theins.ru
 thelancet.com
+themes.telegram.org
 themoscowtimes.com
 themoviedb.org
 thepiratebay.org
@@ -1590,6 +1613,7 @@ trae.ai
 trailblazer.me
 trailhead.com
 transferwise.com
+translations.telegram.org
 trellix.com
 tria.ge
 trueachievements.com
@@ -1782,6 +1806,7 @@ ytimg.com
 ytimg.l.google.com
 yting.com
 yummyani.me
+z.telegram.org
 zahav.ru
 zapier.com
 zaxid.net
